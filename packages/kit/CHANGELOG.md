@@ -1,5 +1,15 @@
 # @sveltejs/kit
 
+## 1.7.3
+
+### Patch Changes
+
+- fix: set public env before starting app ([#8957](https://github.com/sveltejs/kit/pull/8957))
+
+- fix: preload modules on Safari ([#8957](https://github.com/sveltejs/kit/pull/8957))
+
+- fix: make `assets` work in client when app is served from a subfolder ([#8957](https://github.com/sveltejs/kit/pull/8957))
+
 ## 1.7.2
 
 ### Patch Changes
